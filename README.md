@@ -58,7 +58,7 @@ The dataset used in this project is `mobile_data.csv`, which contains **21 featu
 - Scikit-learn
 - Jupyter Notebook
 
-## 📊 Tasks Completed
+## 📊 Tasks
 
 ✅ Data Preprocessing  
 ✅ Exploratory Data Analysis (EDA)  
